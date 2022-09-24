@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: gray;
 }
 
 .App-logo {
@@ -35,4 +36,30 @@
   to {
     transform: rotate(360deg);
   }
+
+}
+
+form{
+  background-color: aquamarine;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 4rem;
+  background-color: #61dafb;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #04aa6d;
+  color: #fff;
 }

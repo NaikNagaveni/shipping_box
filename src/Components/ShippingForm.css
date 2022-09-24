@@ -1,0 +1,16 @@
+.shippingForm{
+    text-align: left;
+    color:blue;
+    font-size: 15px;
+    background-color: rgb(128, 143, 129);
+
+}
+
+.submit{
+    color:black;
+    background-color:aqua;
+    border-color:aqua;
+    border-style:calc() ;
+    box-sizing: content-box;
+    width:155px;
+}
